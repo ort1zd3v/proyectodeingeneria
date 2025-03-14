@@ -1,0 +1,3 @@
+Tiempo para generar archivo consolidado (orden alfabético): 4 ms
+Tiempo para generar archivo consolidado (orden por frecuencia): 0 ms
+Tiempo total de ejecución: 595 ms

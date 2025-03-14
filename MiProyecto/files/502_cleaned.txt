@@ -1,0 +1,482 @@
+
+
+
+
+
+
+
+Online entertainment still trails TV
+
+
+
+
+	
+<META http-equiv="PICS-Label" content='(PICS-1.0 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" by "barryp@cnet.com" for "http://www.news.com" on
+"1996.04.04T08:15-0500" exp "1997.07.01T08:15-0500" r (n 0 s 0 v 0 l 0))'>
+
+
+
+<!--
+
+
+
+		
+.headline 	{font-family: Arial;
+			font-size: 12pt;
+			font-weight: bold;
+			text-decoration: none;
+			line-height: 100%;
+			color: black}
+			
+
+
+.headline2	{font-family: Arial;
+			font-size: 11pt;
+			font-weight: bold;
+			text-decoration: none;
+			line-height: 100%;
+			color: black}
+
+.newsheadline	{font-family: Arial Black;
+			font-size: 18pt;
+			font-weight: normal;
+			text-decoration: none;
+			line-height: 100%;
+			color: black}
+
+.shorttakes 	{font-family: Arial;
+			font-size: 9pt;
+			font-weight: medium;
+			text-decoration: none;
+			margin-left: 4pt;
+      			margin-right: 4pt;
+			line-height: 12pt;
+			color: black}
+
+.shorttakesbold 	{font-family: Arial;
+			font-size: 9pt;
+			font-weight: bold;
+			text-decoration: none;
+			margin-left: 4pt;
+      			margin-right: 4pt;
+			line-height: 12pt;
+			color: black}
+
+.text		{font-family: Times;
+			font-size: 12pt;
+			font-weight: normal;
+			text-decoration: none;
+			line-height: 13pt;
+			color: black}
+
+.date		{font-family: Arial;
+			font-size: 9pt;
+			font-weight: medium;
+			text-decoration: none;
+			line-height: 11pt;
+			color: black}
+			
+.byline		{font-family: Arial;
+			font-size: 9pt;
+			font-weight: medium;
+			text-decoration: none;
+			line-height: 11pt;
+			color: black}
+
+.menu		{font-family: Times;
+			font-size: 12pt;
+			font-weight: normal;
+			text-decoration: none;
+			line-height: 14pt;
+			color: black}
+
+.services	{font-family: Times;
+			font-size: 9pt;
+			font-weight: normal;
+			text-decoration: none;
+			line-height: 14pt;
+			color: black}
+
+.attribution	{font-family: Arial;
+			font-size: 9pt;
+			font-weight: medium;
+			text-decoration: none;
+			line-height: 11pt;
+                        font-style: italic;
+			color: black}
+			
+.quote		{font-family: Arial;
+			font-size: 9pt;
+			font-weight: bold;
+			text-decoration: none;
+			line-height: 10pt;
+			color: black}
+
+.search		{font-family: Arial;
+			font-size: 9pt;
+			font-weight: medium;
+			text-decoration: none;
+			line-height: 16pt;
+			color: black}
+
+		
+.jointext	{font-family: Arial;
+			font-size: 10pt;
+			font-weight: bold;
+			text-decoration: none;
+			line-height: 12pt;
+			color: green}
+			
+A:visited	{color: green;
+                        text-decoration: underline }
+
+A:link	{color: blue;
+                     text-decoration: underline }
+
+-->
+			
+		                
+
+
+
+      <!--
+
+      function SetWindowName() {
+
+        this.name="cnet_main";
+
+      }
+
+      SetWindowName();
+
+        function OpenWindow()
+
+      {
+
+//      window.open('http://www.news.com/Pages/top20.html', 'newWin', 'resizable=yes,scrollbars=yes,status=0,width=145,height=450');
+      var myWindow = window.open('', 'newWin', 'resizable=yes,scrollbars=yes,status=0,width=145,height=450');
+//      myWindow.location = "http://www.news.com/Pages/top20.html";
+      myWindow.location = "http://www.news.com/Pages/top20.html";
+      }
+
+      // -->
+
+
+
+
+
+
+
+
+
+
+
+        
+
+                 
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+
+
+        &nbsp;
+        
+        
+        
+ 
+
+
+	   
+        
+        
+        
+
+
+
+
+
+
+	
+
+
+        
+       
+
+
+
+
+        
+								
+        
+        
+
+
+
+
+
+
+
+
+<a
+href="http://registration.cnet.com/Registration/1,2,,0800.html?webAbbrev=ne&
+from=http://www.news.com/index.html"><img width=116 height=22
+border=0 src="/Graphics/join.gif">
+
+
+
+<img width=116 height=564 border=0 src="/Graphics/menubar2.gif"
+alt="Menu bar" usemap="#menubar" border=0>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+	
+
+	
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+        
+
+        
+        
+        
+
+
+
+        
+       
+
+
+       Online entertainment still trails TV
+
+        
+
+        
+
+        By 
+			Alex Lash
+
+        
+	
+	
+	
+		July 14, 1996, 10 a.m. PT
+		
+
+
+    
+
+    
+
+
+
+
+
+Most computer users do not consider the online world a replacement for other sources of entertainment, according to a survey from <a
+href="http://www.intelliquest.com/">Intelliquest's Worldwide
+Internet/Online Tracking Service in which just 17 percent of respondents described cyberspace &quot;always&quot; or &quot;usually&quot; better than than
+television.
+
+Conducted in April and May, the study covers the home and business use of people 16 and older in the U.S. Some of the conclusions are as follows:
+
+Fifty-four percent of the 16-and-over population use a computer, including at home, work, or school. Of computer users, 32 percent ventured online in the three months prior to being interviewed, which projects to 35 million user of the Internet or online services.
+
+Nearly half of those who go online, about 15 million, said they are connected no more than 2 hours per week. Of the remaining 20 million users, about 8 million access from home and are online more than 5 hours per week, an important statistic for those looking to exploit the Internet
+as a home entertainment medium.
+ 
+The survey drew no comparisons between the Internet and printed
+entertainment, although 61 percent described themselves as &quot;avid&quot; readers of books.
+
+The survey also confirmed some of the conventional wisdom concerning the Net: 64 percent of users are male, 46 percent are college-educated, and 60 percent have household incomes over $50,000.
+
+Putting the numbers against a larger backdrop, the survey found that 35
+percent of all full-time U.S. students 16 and over are online, compared with
+only 4 percent of unemployed or retired people. Only 14 percent of all
+small-business employees use online services.
+
+Webmasters might be interested to know that 26 percent of users &quot;always&quot; use a search engine and 13 percent &quot;always&quot; use bookmarks (although 44 percent &quot;never&quot; use them, most likely the same people who refuse to use a map or read instruction manuals).
+
+Other findings included: 75 percent used email in the month before their interview; 69 percent accessed the Web; 52 percent went online to obtain general news; 49 percent sought out information about &quot;specific products and services;&quot; 32 percent read an online magazine; 31 percent downloaded shareware or freeware; and 7 percent attempted an online banking transaction, the same number that accessed adult entertainment.
+
+Related story:
+Net user estimates come down to earth
+
+
+        
+
+
+
+
+
+
+     
+
+
+      
+
+
+
+        
+
+
+
+
+       
+
+
+        
+
+
+      
+
+
+
+
+
+                
+        
+
+        
+
+
+
+
+
+
+
+        
+
+        
+
+        
+       
+        
+       
+
+        
+
+        
+
+     
+
+Copyright &#169 1995-97 CNET, Inc. All rights reserved.
+        
+
+
+
+
+
+
+
+
+
+

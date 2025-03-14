@@ -1,0 +1,537 @@
+
+
+
+
+
+
+
+AOL subscriber files suit over new pricing
+
+
+
+
+	
+<META http-equiv="PICS-Label" content='(PICS-1.0 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" by "barryp@cnet.com" for "http://www.news.com" on
+"1996.04.04T08:15-0500" exp "1997.07.01T08:15-0500" r (n 0 s 0 v 0 l 0))'>
+
+
+
+<!--
+
+
+
+		
+.headline 	{font-family: Arial;
+			font-size: 12pt;
+			font-weight: bold;
+			text-decoration: none;
+			line-height: 100%;
+			color: black}
+			
+
+
+.headline2	{font-family: Arial;
+			font-size: 11pt;
+			font-weight: bold;
+			text-decoration: none;
+			line-height: 100%;
+			color: black}
+
+.newsheadline	{font-family: Arial Black;
+			font-size: 18pt;
+			font-weight: normal;
+			text-decoration: none;
+			line-height: 100%;
+			color: black}
+
+.shorttakes 	{font-family: Arial;
+			font-size: 9pt;
+			font-weight: medium;
+			text-decoration: none;
+			margin-left: 4pt;
+      			margin-right: 4pt;
+			line-height: 12pt;
+			color: black}
+
+.shorttakesbold 	{font-family: Arial;
+			font-size: 9pt;
+			font-weight: bold;
+			text-decoration: none;
+			margin-left: 4pt;
+      			margin-right: 4pt;
+			line-height: 12pt;
+			color: black}
+
+.text		{font-family: Times;
+			font-size: 12pt;
+			font-weight: normal;
+			text-decoration: none;
+			line-height: 13pt;
+			color: black}
+
+.date		{font-family: Arial;
+			font-size: 9pt;
+			font-weight: medium;
+			text-decoration: none;
+			line-height: 11pt;
+			color: black}
+			
+.byline		{font-family: Arial;
+			font-size: 9pt;
+			font-weight: medium;
+			text-decoration: none;
+			line-height: 11pt;
+			color: black}
+
+.menu		{font-family: Times;
+			font-size: 12pt;
+			font-weight: normal;
+			text-decoration: none;
+			line-height: 14pt;
+			color: black}
+
+.services	{font-family: Times;
+			font-size: 9pt;
+			font-weight: normal;
+			text-decoration: none;
+			line-height: 14pt;
+			color: black}
+
+.attribution	{font-family: Arial;
+			font-size: 9pt;
+			font-weight: medium;
+			text-decoration: none;
+			line-height: 11pt;
+                        font-style: italic;
+			color: black}
+			
+.quote		{font-family: Arial;
+			font-size: 9pt;
+			font-weight: bold;
+			text-decoration: none;
+			line-height: 10pt;
+			color: black}
+
+.search		{font-family: Arial;
+			font-size: 9pt;
+			font-weight: medium;
+			text-decoration: none;
+			line-height: 16pt;
+			color: black}
+
+		
+.jointext	{font-family: Arial;
+			font-size: 10pt;
+			font-weight: bold;
+			text-decoration: none;
+			line-height: 12pt;
+			color: green}
+			
+A:visited	{color: green;
+                        text-decoration: underline }
+
+A:link	{color: blue;
+                     text-decoration: underline }
+
+-->
+			
+		                
+
+
+
+      <!--
+
+      function SetWindowName() {
+
+        this.name="cnet_main";
+
+      }
+
+      SetWindowName();
+
+        function OpenWindow()
+
+      {
+
+//      window.open('http://www.news.com/Pages/top20.html', 'newWin', 'resizable=yes,scrollbars=yes,status=0,width=145,height=450');
+      var myWindow = window.open('', 'newWin', 'resizable=yes,scrollbars=yes,status=0,width=145,height=450');
+//      myWindow.location = "http://www.news.com/Pages/top20.html";
+      myWindow.location = "http://www.news.com/Pages/top20.html";
+      }
+
+      // -->
+
+
+
+
+
+
+
+
+
+
+
+        
+
+                 
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+
+
+        &nbsp;
+        
+        
+        
+ 
+
+
+	   
+        
+        
+        
+
+
+
+
+
+
+	
+
+
+        
+       
+
+
+
+
+        
+								
+        
+        
+
+
+
+
+
+
+
+
+<a
+href="http://registration.cnet.com/Registration/1,2,,0800.html?webAbbrev=ne&
+from=http://www.news.com/index.html"><img width=116 height=22
+border=0 src="/Graphics/join.gif">
+
+
+
+<img width=116 height=564 border=0 src="/Graphics/menubar2.gif"
+alt="Menu bar" usemap="#menubar" border=0>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+	
+
+	
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+        
+
+        
+        
+        
+
+
+
+        
+       
+
+
+       AOL subscriber files suit over new pricing
+
+        
+
+        
+
+        By 
+			Janet Kornblum
+
+        
+	
+	
+	
+		November 25, 1996, 6:30 p.m. PT
+		
+
+
+    
+
+    
+
+
+
+
+
+America Online <a
+href="http://www.dbc.com/cgi-bin/htx.exe/squote?source=blq/cnet&ticker=AOL">(AOL), already under fire from 17 state attorneys general for the way it has implemented its new pricing, is now getting legal heat from at least one of
+its own subscribers.
+
+An AOL subscriber has filed a class-action suit in New York Supreme Court against the online service, claiming that the its policy of automatically switching subscribers from their $9.95 per month pricing plan to the $19.95 plan violates New York state law.
+
+The suit, filed by Stephen DiLorenzo, a New York resident and AOL subscriber represented by Bragar & Wexler, argues that the policy violates states laws against deceptive trade practices. The suit asks the court to declare that AOL is engaging in deceptive practices under the state's law and seeks $7 million in damages.
+ 
+The suit comes at a time when AOL is negotiating with the attorneys general from 17 states and one territory over the pricing plan.
+
+On Friday, AOL resolved the complaints of an 18th state--Washington--when it agreed to allow members to pick their pricing plan from an opening splash screen that shows up when users log on.
+
+But the agreement apparently did not appease the other attorneys general who are continuing to negotiate with AOL. Nor did it apparently resolve those of
+DiLorenzo.
+
+AOL's new pricing plan is slated to take effect after December 1, when the member's billing cycle begins. It will automatically replace the current plan that gives users five hours of service for $9.95 a month with a flat-rate plan that provides unlimited service for $19.95 per month. Under the current plan, users pay $2.95 for each additional hour, a pricing scheme that has cost many users a lot more than $19.95.
+
+Many members have applauded AOL's move to provide unlimited access for $19.95, but the way AOL has implemented the new prices has come under fire from legal experts and users alike.
+
+Critics say that AOL should have asked users to choose whether they wanted the new plan rather than being switched automatically. AOL will allow users to retain their current pricing if they go to the New Pricing area on AOL--an area users say is difficult to find--and select the current plan. But everybody else will start being charged $19.95 as of their billing date in December.
+
+Because of the Washington agreement, AOL users now are presented with a choice to switch to the $19.95 plan or choose "other options" when they log on. The new screen will mention the $9.95 plan on the second screen. Anyone who doesn't log on in before their December billing date theoretically might not know about the new pricing until they get their next bill.
+
+This part, where users will be upgraded to the higher priced plan if they happen not to log on, is what DiLorenzo is characterizing as deceptive marketing.
+
+AOL would not immediately comment on the suit.
+
+
+
+        
+
+
+
+
+
+
+     
+
+
+      
+
+
+
+        
+
+
+
+
+       
+
+
+        
+
+
+
+  
+
+
+
+  
+      
+
+
+	 
+		AOL relents on pricing 
+    	      
+	
+  
+      
+
+
+	 
+		AOL pricing may draw suits 
+    	      
+	
+  
+      
+
+
+	 
+		Law scrutinizes new AOL pricing 
+    	      
+	
+  
+      
+
+
+	 
+		AOL users in for sticker shock? 
+    	      
+	
+  
+      
+
+
+	 
+      		AOL pricing sends ISPs running    	      
+	
+  
+      
+
+
+	 
+		AOL shifts prices, execs 
+    	      
+	
+  
+
+
+&nbsp;
+      
+
+
+
+
+
+                
+        
+
+        
+
+
+
+
+
+
+
+        
+
+        
+
+        
+       
+        
+       
+
+        
+
+        
+
+     
+
+Copyright &#169 1995-97 CNET, Inc. All rights reserved.
+        
+
+
+
+
+
+
+
+
+
+

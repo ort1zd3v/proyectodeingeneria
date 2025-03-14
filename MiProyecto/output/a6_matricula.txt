@@ -1,0 +1,5 @@
+Archivo: simple.html - Tiempo procesamiento: 0 ms
+Archivo: medium.html - Tiempo procesamiento: 0 ms
+Archivo: hard.html - Tiempo procesamiento: 0 ms
+Tiempo para generar el diccionario de tokens: 0 ms
+Tiempo total de ejecución: 595 ms

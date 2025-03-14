@@ -1,0 +1,110 @@
+
+
+
+
+Operaciones
+
+
+
+<body background="../../images/YPFFON.JPG" bgcolor="#FFFFFF"
+text="#000000" link="#0000FF" vlink="#000080" alink="#800040">
+&#160; 
+<img src="../../images/ZOPERAT.GIF"
+alt="OPERACIONES" align="bottom" width="579" height="30">
+
+    
+        Cedric
+        D Bridger
+        Vicepresidente de Finanzas y
+        Desarrollo Corporativo
+        Mart&iacute;n
+        P&aacute;ez Allende
+        Vicepresidente de
+        Relaciones Institucionales
+        Antonio
+        Allegreta
+        Vicepresidente de
+        Lubricantes
+        Carlos
+        Olivieri
+        Vicepresidente de
+        Contralor&iacute;a General
+        Juan
+        J. Garacija
+        Vicepresidente de
+        Compras, Contratos y Protecci&oacute;n Ambiental
+        Ra&uacute;l
+        Oreste
+        Vicepresidente de
+        Recursos Humanos
+        Juan
+        A. Rodriguez
+        Vicepresidente de
+        Ingenier&iacute;a y Tecnolog&iacute;a
+    
+
+<img src="../../images/OPERATNG.JPG"
+alt="MANAGEMENT FOTO" align="bottom" width="564" height="376">
+
+    
+        
+        Enrique
+        Pourteau
+        Vicepresidente de
+        Industrializaci&oacute;n y Comercializaci&oacute;n
+        Roberto
+        Monti
+        Presidente Maxus
+        Energy Corporation
+        Nells
+        Leon
+        Presidente
+        Marcelo
+        D. Guiscardo
+        Vicepresidente de
+        Exploraci&oacute;n y Producci&oacute;n
+        Miguel
+        Madanes
+        Vicepresidente
+        Ejecutivo
+    
+
+No incluidos en la foto: 
+Norberto Noblia
+Viceresidente de Asuntos
+Legales
+Eduardo Petazze
+Vicepresidente
+<img
+src="../../images/BARRA.GIF" align="bottom" width="520"
+height="10">
+
+    <img
+    src="../../images/TRIA2.GIF" align="bottom" border="0"
+    width="19" height="43">Operaciones Locales de
+    Exploraci&oacute;n y Producci&oacute;n<font
+    size="3"> 
+    <img
+    src="../../images/TRIA2.GIF" align="bottom" border="0"
+    width="19" height="43">Operaciones Internacionales YPF/Maxus<font
+    size="3"> 
+    <img
+    src="../../images/TRIA2.GIF" align="bottom" border="0"
+    width="19" height="43">Operaciones de
+    Industrializaci&oacute;n y Comercializaci&oacute;n<font
+    size="3"> 
+    <img
+    src="../../images/TRIA2.GIF" align="bottom" border="0"
+    width="19" height="43">Finanzas - Sintesis<font
+    size="3"> 
+    <img
+    src="../../images/TRIA2.GIF" align="bottom" border="0"
+    width="19" height="43">Informaci&oacute;n Estad&iacute;stica
+
+<img src="../../images/BARRA.GIF"
+align="bottom" width="520" height="10">
+<img
+src="../../images/YPF3D2.GIF" alt="YPF LOGO" align="bottom"
+border="0" width="111" height="52">
+
+

@@ -1,0 +1,13 @@
+<!DOCTYPE HTML PUBLIC "-//SoftQuad//DTD HTML 2.0 + extensions for HoTMetaL Light 3.0 19960703//EN"
+>
+
+
+Three frames
+
+
+<FRAME
+SRC="download.htm" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="NO" NORESIZE="NORESIZE">
+
+
+
+

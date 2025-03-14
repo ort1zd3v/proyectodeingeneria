@@ -1,0 +1,4 @@
+Archivo: simple.html - Tiempo extracción y ordenamiento: 0 ms
+Archivo: medium.html - Tiempo extracción y ordenamiento: 0 ms
+Archivo: hard.html - Tiempo extracción y ordenamiento: 0 ms
+Tiempo total extracción y ordenamiento: 15 ms

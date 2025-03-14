@@ -1,0 +1,28 @@
+/Users/angelescalantegarza/Documents/Proyectos Software/MiProyecto/bin/Debug/net9.0/MiProyecto
+/Users/angelescalantegarza/Documents/Proyectos Software/MiProyecto/bin/Debug/net9.0/MiProyecto.deps.json
+/Users/angelescalantegarza/Documents/Proyectos Software/MiProyecto/bin/Debug/net9.0/MiProyecto.runtimeconfig.json
+/Users/angelescalantegarza/Documents/Proyectos Software/MiProyecto/bin/Debug/net9.0/MiProyecto.dll
+/Users/angelescalantegarza/Documents/Proyectos Software/MiProyecto/bin/Debug/net9.0/MiProyecto.pdb
+/Users/angelescalantegarza/Documents/Proyectos Software/MiProyecto/obj/Debug/net9.0/MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelescalantegarza/Documents/Proyectos Software/MiProyecto/obj/Debug/net9.0/MiProyecto.AssemblyInfoInputs.cache
+/Users/angelescalantegarza/Documents/Proyectos Software/MiProyecto/obj/Debug/net9.0/MiProyecto.AssemblyInfo.cs
+/Users/angelescalantegarza/Documents/Proyectos Software/MiProyecto/obj/Debug/net9.0/MiProyecto.csproj.CoreCompileInputs.cache
+/Users/angelescalantegarza/Documents/Proyectos Software/MiProyecto/obj/Debug/net9.0/MiProyecto.dll
+/Users/angelescalantegarza/Documents/Proyectos Software/MiProyecto/obj/Debug/net9.0/refint/MiProyecto.dll
+/Users/angelescalantegarza/Documents/Proyectos Software/MiProyecto/obj/Debug/net9.0/MiProyecto.pdb
+/Users/angelescalantegarza/Documents/Proyectos Software/MiProyecto/obj/Debug/net9.0/MiProyecto.genruntimeconfig.cache
+/Users/angelescalantegarza/Documents/Proyectos Software/MiProyecto/obj/Debug/net9.0/ref/MiProyecto.dll
+/Users/angelescalantegarza/Documents/Proyectos Software/FASE 1/MiProyecto/bin/Debug/net9.0/MiProyecto
+/Users/angelescalantegarza/Documents/Proyectos Software/FASE 1/MiProyecto/bin/Debug/net9.0/MiProyecto.deps.json
+/Users/angelescalantegarza/Documents/Proyectos Software/FASE 1/MiProyecto/bin/Debug/net9.0/MiProyecto.runtimeconfig.json
+/Users/angelescalantegarza/Documents/Proyectos Software/FASE 1/MiProyecto/bin/Debug/net9.0/MiProyecto.dll
+/Users/angelescalantegarza/Documents/Proyectos Software/FASE 1/MiProyecto/bin/Debug/net9.0/MiProyecto.pdb
+/Users/angelescalantegarza/Documents/Proyectos Software/FASE 1/MiProyecto/obj/Debug/net9.0/MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelescalantegarza/Documents/Proyectos Software/FASE 1/MiProyecto/obj/Debug/net9.0/MiProyecto.AssemblyInfoInputs.cache
+/Users/angelescalantegarza/Documents/Proyectos Software/FASE 1/MiProyecto/obj/Debug/net9.0/MiProyecto.AssemblyInfo.cs
+/Users/angelescalantegarza/Documents/Proyectos Software/FASE 1/MiProyecto/obj/Debug/net9.0/MiProyecto.csproj.CoreCompileInputs.cache
+/Users/angelescalantegarza/Documents/Proyectos Software/FASE 1/MiProyecto/obj/Debug/net9.0/MiProyecto.dll
+/Users/angelescalantegarza/Documents/Proyectos Software/FASE 1/MiProyecto/obj/Debug/net9.0/refint/MiProyecto.dll
+/Users/angelescalantegarza/Documents/Proyectos Software/FASE 1/MiProyecto/obj/Debug/net9.0/MiProyecto.pdb
+/Users/angelescalantegarza/Documents/Proyectos Software/FASE 1/MiProyecto/obj/Debug/net9.0/MiProyecto.genruntimeconfig.cache
+/Users/angelescalantegarza/Documents/Proyectos Software/FASE 1/MiProyecto/obj/Debug/net9.0/ref/MiProyecto.dll

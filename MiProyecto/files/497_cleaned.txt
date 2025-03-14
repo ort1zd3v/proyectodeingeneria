@@ -1,0 +1,78 @@
+
+
+
+
+Argentina
+
+
+
+<body background="../../images/YPFFON.JPG" bgcolor="#FFFFFF"
+text="#000000" link="#0000FF" vlink="#000080" alink="#800040">
+&#160; 
+<img src="../../images/ARGENTIN.GIF"
+alt="ARGENTINA" align="bottom" width="119" height="22"> 
+
+
+    
+        
+        <img src="../../images/AWORLDAR.JPG"
+        alt="ARGENTINE MAP" align="bottom" width="309"
+        height="514"> 
+        
+        <img src="../../images/REF.GIF"
+        align="bottom" width="12" height="12"> Refinery
+        <img src="../../images/PET.GIF" align="bottom" width="11"
+        height="11"> Petrochemical Plant
+        <img src="../../images/MON.GIF" align="bottom" width="16"
+        height="16"> Monobuoy
+        <img src="../../images/TAN.GIF" align="bottom" width="14"
+        height="13"> Tanker Fleet
+        <img src="../../images/PRO.GIF" align="bottom" width="17"
+        height="17"> Product Pipeline
+        <img src="../../images/OIL.GIF" align="bottom" width="17"
+        height="17"> Oil Pipeline
+        
+        Main YPF Assets
+        
+        
+            Luj&aacute;n de Cuyo 
+            La Plata 
+            Petroqu&iacute;mica La Plata 
+            Plaza Huincul 
+            Refinor S.A. (30%)
+                Refinerias del Norte 
+            Oldelval S.A. (30%)
+                Oleoductos del Valle 
+            Oiltanking Ebytem S.A. (30%)
+                Hydrocarbon Transportation and Storage 
+            Terminales Mar&iacute;timas
+                Patag&oacute;nicas (30%)
+                C. Olivia y C. C&oacute;rdoba
+                Oil Storage and Shipment 
+            TMP S.A. (30%)
+                Transportes Mar&iacute;timos Petroleros S.A.
+                Oil Transportation by Ship 
+            Petroken S.A. (50%)
+                Petroqu&iacute;mica Ensenada S.A. 
+            Oleoducto Trasandino (57.75%)
+                Estenssoro-Pedrals Oil Pipeline 
+            Petroqu&iacute;mica Bah&iacute;a
+                Blanca S.A. (18.06%) 
+        
+        
+            Service Stations in Argentina,
+                
+            Chile and Peru
+                
+        
+        
+    
+
+
+<img src="../../images/BARRA.GIF"
+align="bottom" width="520" height="10"> 
+<img
+src="../../images/YPF3D2.GIF" alt="YPF LOGO" align="bottom"
+border="0" width="111" height="52">
+
+
